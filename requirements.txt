@@ -1,2 +1,5 @@
-rpi_ws281x
 adafruit-circuitpython-neopixel
+spotipy
+requests
+flask
+rpi_ws281x
